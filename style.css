@@ -1,0 +1,9 @@
+style.css (example)
+body
+{
+font-family: Arial, sans-serif; background: sf0f2f5; text-align: center;
+}
+•container {
+background: white; padding: 28px; border-radius: 8px;
+box-shadow: 8 2px 18px rgba(8,0,0,e.1); width: 90%; max-width: 400px; margin: 50px auto;
+}
